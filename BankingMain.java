@@ -9,7 +9,7 @@ import java.util.Scanner;
 public class BankingMain {
     public static final String url = "jdbc:mysql://localhost:3306/banking_system";
     public static final String username = "root";
-    public static final String password = "12nN@idhi";
+    public static final String password = ""; // Enter your password
 
     public static void main(String[] args) {
         try {
